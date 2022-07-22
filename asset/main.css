@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: main;
+    text-align: center;
+}
+@font-face {
+    font-family: main;
+    src: url(font/cairo.ttf);
+}
+h1{
+    background-color: #d12149;
+    color: white;
+    text-align: center;
+    font-weight: 300;
+    padding: 10px;
+
+}
+h3{
+    color:green;
+    font-weight: bold;
+    padding: 10px;
+    padding: 10px;
+
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: c;
+}
